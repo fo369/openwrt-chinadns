@@ -1,6 +1,12 @@
 ﻿ChinaDNS for OpenWrt
 ===
 
+简介
+---
+
+ 本项目是 [ChinaDNS][1] 在 OpenWrt 上的移植  
+ 当前版本: 1.3.1-1    
+
 编译
 ---
 
@@ -44,7 +50,8 @@
  [openwrt-redsocks2][R]   | RedSocks2 for OpenWrt
 
 
-  
+  [1]: https://github.com/clowwindy/ChinaDNS
+  [3]: https://github.com/clowwindy/ChinaDNS/blob/master/chnroute.txt
   [5]: https://github.com/fo369/openwrt-shadowvpn
   [7]: https://github.com/fo369/openwrt-shadowsocks
   [R]: https://github.com/fo369/openwrt-redsocks2
